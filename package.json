@@ -47,7 +47,7 @@
     "@inertiajs/react": "^1.0.14",
     "@poppinss/utils": "^6.7.2",
     "@vinejs/vine": "1.8.0",
-    "adonisjsx": "^0.1.1",
+    "adonisjsx": "^0.2.0",
     "edge.js": "^6.0.1",
     "framer-motion": "^11.0.3",
     "luxon": "^3.4.4",
